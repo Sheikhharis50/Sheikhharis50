@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sheikhharis50
-- 👀 I’m interested in Developing Business Tools
-- 🌱 I’m currently learning React/NodeJS/Django
-- 💞️ I’m looking to collaborate on React
+- 👀 I’m interested in new technologies and good opportunities.
+- 🌱 I’m learning new things every day.
+- 💞️ I’m looking to collaborate on Javascript Frameworks and Python Frameworks. 
 - 📫 How to reach me sheikh.haris.zahid@hotmail.com
 
 <!---
