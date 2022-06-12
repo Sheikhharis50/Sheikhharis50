@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies and good opportunities.
 - 🌱 I’m learning new things every day.
 - 💞️ I’m looking to collaborate on Javascript Frameworks and Python Frameworks. 
-- 📫 How to reach me itshariszahid@gmail.com
+- 📫 How to reach me sheikh.haris.zahid@hotmail.com
 
 <!---
 [![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhharis50&hide=issues,contribs&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)](https://github.com/Sheikhharis50)
