@@ -5,6 +5,7 @@
 - I built
   - Ecommerce systems from scratch using open source platforms, such as Saleor, oscar and more,
   - Search systems using ElasticSearch and PostgreSQL vector system.
+  - ETL (Extract, Transfor and Load) systems FROM SQL => SQL, SQL => NOSQL
   - Also familiar with Microservices and Monolithic architecture.
   - Dockerization of services to increase the flexibility in packing and deployment of the project using CI/CD pipelines using various tools.
 
