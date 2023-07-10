@@ -11,7 +11,7 @@
 
 🌱 I really enjoy working as Software Engineer, it helps me to be update with new technologies and learn new things every second.
 
-📫 How to reach me <sheikh.haris.zahid@hotmail.com>
+📫 How to reach me <itshariszahid@gmail.com>
 
 ## Languages and Tools
 
