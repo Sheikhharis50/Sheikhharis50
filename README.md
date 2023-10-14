@@ -1,11 +1,12 @@
 👋 Hi, I’m @Sheikhharis50, am a Senior Software Engineer and a full stack developer, working as full-time freelancer at your service.
 
 - I have years of working experience in designing, developing standard practices large systems, and working with good teams.
-- I worked on Python as my main backend, and on React as a Frontend programming language.
+- I worked on Python and NodeJS for backend development, and on React as a Frontend programming language.
 - I built
   - Ecommerce systems from scratch using open source platforms, such as Saleor, oscar and more,
   - Search systems using ElasticSearch and PostgreSQL vector system.
   - ETL (Extract, Transfor and Load) systems FROM SQL => SQL, SQL => NOSQL
+  - Inventory, ERP, POS and furture custom systems on demand.
   - Also familiar with Microservices and Monolithic architecture.
   - Dockerization of services to increase the flexibility in packing and deployment of the project using CI/CD pipelines using various tools.
 
