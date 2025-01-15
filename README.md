@@ -82,13 +82,9 @@
   
 ## Github Statistics
 
-<!---
-[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhharis50&hide=issues,contribs&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)](https://github.com/Sheikhharis50)
---->
+[![Haris's GitHub stats](https://github-readme-stats-gamma-mocha-31.vercel.app/api?username=sheikhharis50&count_private=true&show_icons=true&theme=dark&show_owner=true)](https://github.com/Sheikhharis50)
 
-[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhharis50&hide=contribs&count_private=true&show_icons=true&theme=gruvbox&show_owner=true)](https://github.com/Sheikhharis50)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer4447&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-gamma-mocha-31.vercel.app/api/top-langs/?username=sheikhharis50&theme=vision-friendly-dark&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 <!---
 Sheikhharis50/Sheikhharis50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
