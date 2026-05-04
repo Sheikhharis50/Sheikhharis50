@@ -1,6 +1,6 @@
-👋 Hi, I’m @Sheikhharis50, am a Senior Software Engineer and a full stack developer, working as full-time freelancer at your service.
+👋 Hi, I’m @Sheikhharis50, am a Senior Software Engineer and a full stack developer, [Toptal](https://www.toptal.com/developers/resume/haris-zahid) verified, working as full-time freelancer at your service.
 
-- I have 6+ years of working experience in designing, developing standard practiced large systems, and working with good teams.
+- I have 7+ years of working experience in designing, developing standard practiced large systems, and working with good teams.
 - I worked on Python and NodeJS for backend development, and on React as a Frontend programming language.
 - I built
   - Ecommerce systems from scratch using open source platforms, such as Saleor, oscar and more,
@@ -13,6 +13,10 @@
 🌱 I really enjoy working as Software Engineer, it helps me to be update with new technologies and learn new things every second.
 
 📫 How to reach me <itshariszahid@gmail.com>
+
+## Certifications and Licences
+
+[![Toptal Top 3%](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-25a9ef?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/developers/resume/haris-zahid)
 
 ## Languages and Tools
 
